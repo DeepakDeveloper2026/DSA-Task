@@ -368,6 +368,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0001-two-sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0001-two-sum) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
+| [2756-buy-two-chocolates](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -380,8 +381,10 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
+| [2756-buy-two-chocolates](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
+| [2756-buy-two-chocolates](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
