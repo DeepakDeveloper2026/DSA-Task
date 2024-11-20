@@ -420,4 +420,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
+| [2383-add-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
