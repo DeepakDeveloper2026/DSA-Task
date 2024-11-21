@@ -421,4 +421,24 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
 | [2383-add-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2383-add-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
