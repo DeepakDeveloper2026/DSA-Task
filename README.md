@@ -427,6 +427,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
 |  |
 | ------- |
@@ -435,16 +436,23 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
