@@ -416,6 +416,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0198-house-robber) |
@@ -468,4 +469,9 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
