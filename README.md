@@ -420,6 +420,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
