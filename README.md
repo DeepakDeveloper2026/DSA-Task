@@ -414,6 +414,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0367-valid-perfect-square) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -432,6 +433,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0367-valid-perfect-square) |
 | [2383-add-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2383-add-two-integers) |
 ## Linked List
 |  |
