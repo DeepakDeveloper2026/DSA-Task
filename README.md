@@ -430,6 +430,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0007-reverse-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0069-sqrtx) |
@@ -482,6 +483,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0050-powx-n) |
 ## Monotonic Stack
 |  |
 | ------- |
