@@ -1,24 +1,22 @@
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
-        int n = A.length;
-        int sum=0;
-        boolean[] a = new boolean[n];
-        boolean[] b = new boolean[n];
-        int[] ans = new int[n];
-        for(int i=0;i<n;i++){
-            if(A[i]==B[i]){
-                sum++;
-                ans[i]=sum;
-                a[A[i]-1] = true;
-                b[B[i]-1] = true;
-            }else{
-                if(b[A[i]-1])sum++;
-                if(a[B[i]-1])sum++;
-                a[A[i]-1] = true;
-                b[B[i]-1] = true;
-                ans[i]=sum;
-
+        Set<Integer> set=new HashSet<>();
+        int C[]=new int[A.length];
+        int count=0;
+        for(int i=0;i<A.length;i++){
+            if (set.contains(A[i])) {
+                count++;
+            } else {
+                set.add(A[i]);
             }
-        }return ans;
+
+            if (set.contains(B[i])) {
+                count++;
+            } else {
+                set.add(B[i]);
+            }
+            C[i]=count;
+        }
+        return C;
     }
 }
