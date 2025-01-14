@@ -1,6 +1,6 @@
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
-        int arr[]=new int[A.length];
+        int C[]=new int[A.length];
         
         for(int i=1;i<A.length+1;i++){
             Set<Integer> set=new HashSet<>();
@@ -13,8 +13,8 @@ class Solution {
                     count=count+1;
                 }
             }
-            arr[i-1]=count;
+            C[i-1]=count;
         }
-        return arr;
+        return C;
     }
 }
