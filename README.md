@@ -394,6 +394,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 ## Greedy
@@ -500,6 +501,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0005-longest-palindromic-substring](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
 | ------- |
