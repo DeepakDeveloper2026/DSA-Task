@@ -385,6 +385,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0001-two-sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -437,6 +438,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0007-reverse-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
@@ -504,6 +506,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0125-valid-palindrome) |
 ## Recursion
