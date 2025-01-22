@@ -384,6 +384,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -500,6 +501,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0014-longest-common-prefix) |
@@ -526,4 +528,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
