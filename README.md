@@ -461,6 +461,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -509,6 +510,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
