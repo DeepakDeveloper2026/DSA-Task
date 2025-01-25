@@ -40,9 +40,10 @@ class Solution {
             str.setLength(0);
             }
         }
-        StringBuilder result=new StringBuilder();
-        for (String primitive:ls)
-        result.append(primitive.substring(1, primitive.length() - 1));
-        return result.toString();
+        String st="";
+        for (int i = 0; i < ls.size(); i++) {
+            st += ls.get(i).substring(1, ls.get(i).length() - 1);
+        }
+        return st;
     }
 }
