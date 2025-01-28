@@ -386,6 +386,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0001-two-sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
+| [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -514,6 +515,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0014-longest-common-prefix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
