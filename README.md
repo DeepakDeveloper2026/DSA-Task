@@ -435,6 +435,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -535,6 +536,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0338-counting-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
