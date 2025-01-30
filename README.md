@@ -386,6 +386,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0001-two-sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
@@ -448,6 +449,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0007-reverse-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
@@ -519,6 +521,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0005-longest-palindromic-substring](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
