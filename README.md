@@ -485,6 +485,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0145-binary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -504,6 +505,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0145-binary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -571,4 +573,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
