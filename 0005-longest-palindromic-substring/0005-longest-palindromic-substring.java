@@ -1,29 +1,36 @@
-class Solution {
-   
-      public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-        
-        String longest = "";
-        
+public class Solution {
+    public String longestPalindrome(String s) {
+        if (s.length() <= 1) {
+            return s;
+        }
+
+        int maxLen = 1;
+        String maxStr = s.substring(0, 1);
+
         for (int i = 0; i < s.length(); i++) {
-            // Check for odd-length palindromes centered at i
-            String odd = expandAroundCenter(s, i, i);
-            // Check for even-length palindromes centered between i and i+1
-            String even = expandAroundCenter(s, i, i + 1);
-            
-            // Compare and store the longest palindrome
-            if (odd.length() > longest.length()) longest = odd;
-            if (even.length() > longest.length()) longest = even;
+            for (int j = i + maxLen; j <= s.length(); j++) {
+                if (j - i > maxLen && isPalindrome(s.substring(i, j))) {
+                    maxLen = j - i;
+                    maxStr = s.substring(i, j);
+                }
+            }
         }
-        
-        return longest;
+
+        return maxStr;
     }
-    
-    private String expandAroundCenter(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
+
+    private boolean isPalindrome(String str) {
+        int left = 0;
+        int right = str.length() - 1;
+
+        while (left < right) {
+            if (str.charAt(left) != str.charAt(right)) {
+                return false;
+            }
+            left++;
+            right--;
         }
-        return s.substring(left + 1, right);  
+
+        return true;
     }
 }
