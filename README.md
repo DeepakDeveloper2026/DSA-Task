@@ -471,6 +471,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
