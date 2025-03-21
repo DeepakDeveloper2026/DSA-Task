@@ -461,6 +461,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2383-add-two-integers) |
@@ -566,6 +567,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0371-sum-of-two-integers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
