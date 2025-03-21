@@ -566,6 +566,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0371-sum-of-two-integers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -598,6 +599,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0191-number-of-1-bits) |
 ## Enumeration
 |  |
 | ------- |
