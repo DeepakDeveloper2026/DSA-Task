@@ -392,6 +392,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0013-roman-to-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
@@ -421,6 +422,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -543,6 +545,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1078-remove-outermost-parentheses) |
@@ -569,6 +572,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0191-number-of-1-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
