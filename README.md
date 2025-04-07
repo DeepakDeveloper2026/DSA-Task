@@ -393,6 +393,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
@@ -412,6 +413,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2032-largest-odd-number-in-string) |
@@ -546,6 +548,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1078-remove-outermost-parentheses) |
