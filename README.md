@@ -371,6 +371,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0198-house-robber) |
@@ -406,6 +407,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
@@ -423,6 +425,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
