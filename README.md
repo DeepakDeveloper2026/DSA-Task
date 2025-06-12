@@ -380,6 +380,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0890-lemonade-change](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0890-lemonade-change) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1656-count-good-triplets) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
