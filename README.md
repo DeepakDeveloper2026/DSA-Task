@@ -380,6 +380,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0890-lemonade-change) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
