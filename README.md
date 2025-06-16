@@ -377,6 +377,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0189-rotate-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0890-lemonade-change) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -416,6 +417,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0141-linked-list-cycle](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 ## Greedy
