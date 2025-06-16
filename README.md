@@ -377,6 +377,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0189-rotate-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0540-single-element-in-a-sorted-array) |
@@ -399,6 +400,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0141-linked-list-cycle](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
@@ -437,6 +439,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
@@ -453,6 +456,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0540-single-element-in-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
@@ -479,6 +483,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1013-fibonacci-number) |
@@ -591,6 +596,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
