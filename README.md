@@ -379,6 +379,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0890-lemonade-change) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1656-count-good-triplets) |
@@ -453,6 +454,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0069-sqrtx](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0540-single-element-in-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
