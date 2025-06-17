@@ -370,6 +370,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -468,6 +469,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0005-longest-palindromic-substring](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0198-house-robber) |
@@ -633,6 +635,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
