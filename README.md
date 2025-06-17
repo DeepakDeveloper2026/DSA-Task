@@ -372,6 +372,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0136-single-number) |
@@ -418,6 +419,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0141-linked-list-cycle) |
@@ -439,6 +441,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
