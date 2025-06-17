@@ -373,6 +373,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0198-house-robber) |
@@ -596,6 +597,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0338-counting-bits) |
