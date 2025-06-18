@@ -377,6 +377,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
@@ -402,6 +403,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
@@ -443,6 +445,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
@@ -455,6 +458,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -640,6 +644,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0053-maximum-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0215-kth-largest-element-in-an-array) |
 ## Enumeration
