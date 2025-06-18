@@ -392,6 +392,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -432,6 +433,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0189-rotate-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 ## Greedy
 |  |
@@ -663,4 +665,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
