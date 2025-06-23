@@ -371,6 +371,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0075-sort-colors) |
@@ -672,9 +673,11 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
