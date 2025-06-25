@@ -18,6 +18,6 @@ class Solution {
             j--;
             last--;
         }
-        return ;
+        
     }
 }
