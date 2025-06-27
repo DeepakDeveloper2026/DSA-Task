@@ -371,6 +371,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0018-4sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0056-merge-intervals) |
@@ -511,6 +512,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0009-palindrome-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0066-plus-one) |
@@ -690,6 +692,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3227-find-missing-and-repeated-values) |
