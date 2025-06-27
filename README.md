@@ -402,6 +402,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -425,6 +426,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -520,6 +522,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1013-fibonacci-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2383-add-two-integers) |
+| [3227-find-missing-and-repeated-values](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -689,4 +692,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0054-spiral-matrix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
