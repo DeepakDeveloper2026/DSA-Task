@@ -445,6 +445,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -537,6 +538,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0141-linked-list-cycle](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
@@ -546,6 +548,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -622,6 +625,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
