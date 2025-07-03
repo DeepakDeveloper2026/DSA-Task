@@ -436,6 +436,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0005-longest-palindromic-substring](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0075-sort-colors) |
@@ -531,6 +532,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0116-populating-next-right-pointers-in-each-node) |
