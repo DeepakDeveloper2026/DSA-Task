@@ -449,6 +449,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0234-palindrome-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0455-assign-cookies) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
 ## Greedy
@@ -543,6 +544,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0234-palindrome-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
