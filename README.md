@@ -532,6 +532,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2032-largest-odd-number-in-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2383-add-two-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3227-find-missing-and-repeated-values) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Linked List
 |  |
 | ------- |
@@ -704,6 +705,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0054-spiral-matrix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Matrix
 |  |
 | ------- |
@@ -711,4 +713,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0054-spiral-matrix](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3227-find-missing-and-repeated-values) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
