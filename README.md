@@ -515,6 +515,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0012-integer-to-roman) |
@@ -536,6 +537,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -631,6 +633,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0206-reverse-linked-list) |
