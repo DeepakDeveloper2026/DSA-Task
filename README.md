@@ -425,6 +425,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0268-missing-number](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2634-minimum-common-value](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/2634-minimum-common-value) |
@@ -626,6 +627,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0242-valid-anagram](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/1078-remove-outermost-parentheses) |
@@ -667,6 +669,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DeepakDeveloper2026/DSA-Task/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String Matching
 |  |
 | ------- |
